@@ -1,0 +1,10 @@
+E:\own\C#课程\The3class\The3class\bin\Debug\The3class.exe.config
+E:\own\C#课程\The3class\The3class\bin\Debug\The3class.exe
+E:\own\C#课程\The3class\The3class\bin\Debug\The3class.pdb
+E:\own\C#课程\The3class\The3class\obj\Debug\The3class.csprojAssemblyReference.cache
+E:\own\C#课程\The3class\The3class\obj\Debug\The3class.Form1.resources
+E:\own\C#课程\The3class\The3class\obj\Debug\The3class.Properties.Resources.resources
+E:\own\C#课程\The3class\The3class\obj\Debug\The3class.csproj.GenerateResource.cache
+E:\own\C#课程\The3class\The3class\obj\Debug\The3class.csproj.CoreCompileInputs.cache
+E:\own\C#课程\The3class\The3class\obj\Debug\The3class.exe
+E:\own\C#课程\The3class\The3class\obj\Debug\The3class.pdb
